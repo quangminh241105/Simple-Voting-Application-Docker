@@ -11,7 +11,7 @@
 
 ---
 
-A great sample application for docker & docker compose demonstration!
+A great sample application for docker & docker compose demonstration! !!
 
 Indeed, this is a distributed application running across multiple Docker containers.
 
